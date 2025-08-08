@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+
+#myBox{
+    background-color: lightyellow;
+    display: inline-flex;
+    padding: 1rem;
+    font-size: 7.5rem;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}

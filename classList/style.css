@@ -1,0 +1,26 @@
+#myH1{
+    color: brown;
+}
+
+#myButton{
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.enabled{
+    background-color: blue;
+    color: white;
+}
+
+.hover{
+    box-shadow: 0 0 10px black;
+    font-weight: bold;
+}
+
+.disabled{
+    background-color: gray;
+    color: orange;
+}
